@@ -1,0 +1,68 @@
+.rooms-list {
+    text-align: center;
+    color: #14274A;
+}
+.rooms-list .rooms-intro {
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+.rooms-list .rooms-heading {
+    font-size: 42px;
+    font-family: adobe-garamond-pro, serif;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    margin-bottom: 0;
+}
+.rooms-list .rooms-desc {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 1.6;
+}
+.rooms-list .room {
+    border: 1px solid;
+    border-top: 0;
+    border-radius: 0 0 10px 10px;
+    margin-top: 55px;
+}
+.rooms-list .room figure {
+    position: relative;
+    margin: 0;
+}
+.rooms-list .room .figureimg img {
+    width: 100%;
+}
+.rooms-list .room figcaption {
+    background-color: #14274A;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 90px;
+    line-height: 90px;
+    font-size: 38px;
+    font-weight: 700;
+}
+.rooms-list .room .room-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+.rooms-list .room .room-details .details {
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+.rooms-list .room .room-details .details i {
+    color: #e0b973;
+    font-size: 32px;
+    margin-right: 22px;
+}
+.rooms-list .room .room-details .price {
+    background-color: #e0b973;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 30px;
+    border-radius: 8px;
+    font-weight: 600;
+}

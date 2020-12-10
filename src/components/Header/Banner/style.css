@@ -1,0 +1,81 @@
+.banner {
+    position: relative;
+    width: 100%;
+    top: -107px;
+    margin-bottom: -110px;
+    z-index: 1;
+}
+.banner .banner-container {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.banner-bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+.banner .banner-container::after {
+    content: "";
+    background-color: rgb(20 39 74 / .5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+.banner .banner-text {
+    z-index: 4;
+    color: #fff;
+    margin-top: 25px;
+}
+.banner .banner-text h1 {
+    text-transform: uppercase;
+}
+.banner .banner-text h1 span {
+    display: block;
+}
+.banner .banner-text h1 span:nth-child(1) {
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 0;
+}
+.banner .banner-text h1 span:nth-child(2) {
+    font-size: 100px;
+    font-family: adobe-garamond-pro, serif;
+    letter-spacing: 10px;
+}
+.banner .banner-text h1 span:nth-child(3) {
+    font-size: 40px;
+    font-family: adobe-garamond-pro, serif;
+    line-height: 0;
+    letter-spacing: 16px;
+}
+.banner .banner-text p {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+.scroll {
+    z-index: 4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 2;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 4%;
+    letter-spacing: 0.4px;
+}
+.scroll i {
+    font-size: 42px;
+    color: #fff;
+}

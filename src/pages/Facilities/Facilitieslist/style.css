@@ -1,0 +1,47 @@
+.facilities {
+    color: #14274A;
+    text-align: center;
+}
+.facilities-intro {
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+.facilities-banner {
+    background-image: url("../../../assets/images/facilities.jpg");
+}
+.facilities .facilities-heading {
+    font-size: 42px;
+    font-family: adobe-garamond-pro, serif;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    margin-bottom: 0px;
+}
+.facilities .facilities-desc {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 1.6;
+}
+.facilities .facilities-items figure {
+    overflow: hidden;
+    position: relative;
+    margin: 0 0 100px;
+}
+.facilities .facilities-items figure .figureimg {
+    overflow: hidden;
+}
+.facilities .facilities-items figure img {
+    width: 100%;
+}
+.facilities .facilities-items figure figcaption {
+    background-color: #fff;
+    margin: auto;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px 0;
+    width: 42%;
+}

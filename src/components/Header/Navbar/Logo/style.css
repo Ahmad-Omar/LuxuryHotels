@@ -1,0 +1,20 @@
+.nav-logo {
+    background-color: #E0B973;
+    text-align: center;
+    padding: 8px 20px;
+    border-radius: 0 0 40px 40px;
+    z-index: 2;
+}
+.nav-logo h2 {
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 5px;
+    line-height: 1;
+    color: #14274A;
+}
+.nav-logo h2 span {
+    font-size: 11px;
+    display: block;
+    letter-spacing: 7px;
+}

@@ -1,0 +1,24 @@
+.book_now {
+    background-color: #e0b973;
+    z-index: 5;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 13px 26px;
+    position: absolute;
+    bottom: 18%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    cursor: pointer;
+    align-items: center;
+}
+.book_now svg {
+    width: 1em;
+    padding-right: 14px;
+}
