@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LuxuryHotels/static/css/main.0acd4e5d.chunk.css",
+    "main.js": "/LuxuryHotels/static/js/main.7dbea7e9.chunk.js",
+    "main.js.map": "/LuxuryHotels/static/js/main.7dbea7e9.chunk.js.map",
+    "runtime-main.js": "/LuxuryHotels/static/js/runtime-main.0baa5e07.js",
+    "runtime-main.js.map": "/LuxuryHotels/static/js/runtime-main.0baa5e07.js.map",
+    "static/js/2.a50730d3.chunk.js": "/LuxuryHotels/static/js/2.a50730d3.chunk.js",
+    "static/js/2.a50730d3.chunk.js.map": "/LuxuryHotels/static/js/2.a50730d3.chunk.js.map",
+    "index.html": "/LuxuryHotels/index.html",
+    "static/css/main.0acd4e5d.chunk.css.map": "/LuxuryHotels/static/css/main.0acd4e5d.chunk.css.map",
+    "static/js/2.a50730d3.chunk.js.LICENSE.txt": "/LuxuryHotels/static/js/2.a50730d3.chunk.js.LICENSE.txt",
+    "static/media/booknow.3a0fe9ad.svg": "/LuxuryHotels/static/media/booknow.3a0fe9ad.svg",
+    "static/media/style.css": "/LuxuryHotels/static/media/rooms.ffc781ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0baa5e07.js",
+    "static/js/2.a50730d3.chunk.js",
+    "static/css/main.0acd4e5d.chunk.css",
+    "static/js/main.7dbea7e9.chunk.js"
+  ]
+}
